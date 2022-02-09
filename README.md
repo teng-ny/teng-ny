@@ -13,7 +13,7 @@
 <br>
 
 
-<h3 align="center"> 🧸🧸 Me 🧸 </h3>
+<h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://xod22.tistory.com/"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=https://xod22.tistory.com/"/></a>&nbsp
   <a href="mailto:ptaeeun0202@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ptaeeun0202@gmail.com"/></a>
