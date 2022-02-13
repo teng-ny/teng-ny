@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ParkTaeEun&fontSize=70&animation=twinkling)
 
 
-<h3 align="center">🛠 Stacks 🛠</h3>
+<h3 align="center">🛠 StacksStacks 🛠</h3>
 
 <p align="center"> Stacks that I've used at least once </p>
 
