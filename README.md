@@ -28,4 +28,4 @@
 > 📈🔗 My Service : https://kmong.com/seller/order-list
 <br>
 
-> 📄🔗 Linkedin : https://www.linkedin.com/in/태은-박-b09449260/
+> 📄🔗 Linkedin : https://www.linkedin.com/in/taeeun-park-b09449260/
