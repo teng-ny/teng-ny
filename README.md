@@ -25,7 +25,7 @@
 </p>
 <br>
 
-> 📈🔗 My Service : https://kmong.com/seller/order-list
+> 📈🔗 My Service : https://kmong.com/gig/432116
 <br>
 
 > 📄🔗 Linkedin : https://www.linkedin.com/in/taeeun-park-b09449260/
